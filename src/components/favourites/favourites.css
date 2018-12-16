@@ -1,0 +1,8 @@
+.SingleProperty {
+  width: 60%;
+  border: 1px solid #ddd;
+  margin: auto;
+  padding: 15px;
+  text-align: left;
+  box-shadow: 2px 3px #aaa;
+}

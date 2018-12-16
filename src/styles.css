@@ -1,0 +1,25 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.header {
+  background-color: #703b09;
+}
+.header ul {
+  list-style: none;
+  width: 100%;
+  text-align: center;
+  padding: 10px;
+  font-size: 1.1rem;
+}
+
+.header li {
+  display: inline;
+  margin: 15px;
+}
+
+a {
+  text-decoration: none;
+  color: white;
+}
